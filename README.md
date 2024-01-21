@@ -114,7 +114,7 @@ gradle clean test
 
 ## Authors
 
-* **Sebastian Kutschbach** - *Initial work*
+* **CodeSpace Poseidon** - *Initial work*
 
 See also the list of [contributors](https://github.com/sebastiankutschbach/obd2/contributors) who participated in this project.
 
